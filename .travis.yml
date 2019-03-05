@@ -14,7 +14,7 @@ before_script:
    - cd copper-server/kubernetes/deployment
 
 script:
-  - bash equality_test.sh
+  - bash deploy.sh
 
 
 
